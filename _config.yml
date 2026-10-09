@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Wang(王浩)"
-description              : "Senior majoring in Software Engineering at Harbin Institute of Technology, Weihai. Incoming Ph.D at ICT.VIPL "
+description              : "Senior majoring in Software Engineering at Harbin Institute of Technology, Weihai."
 repository               : "wanghao912/wanghao912.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Wang"
   avatar           : "images/avatar.jpg"
-  bio              : "Senior majoring in Software Engineering at Harbin Institute of Technology, Weihai. Incoming Ph.D at ICT.VIPL "
+  bio              : "Harbin Institute of Technology"
   location         : "Weihai, Shandong, China"
   employer         :
   pubmed           : 
