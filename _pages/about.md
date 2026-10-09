@@ -19,7 +19,7 @@ redirect_from:
 
 I am a senior at Harbin Institute of Technology, Weihai. And I'm majoring in Software Engineering. During my undergraduate studies, it's my honor to work under the guidance of Prof. [Beichen Zhang](https://homepage.hit.edu.cn/beiczhang).
 
-I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, co-advised by Prof. [Qingming Huang](https://vipl.ict.ac.cn/people/qmhuang/) and Prof. [Qianqian Xu](https://vipl.ict.ac.cn/people/qqxu/), to pursue a Ph.D,
+I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, co-advised by Prof. [Qingming Huang](https://vipl.ict.ac.cn/people/qmhuang/) and Prof. [Qianqian Xu](https://vipl.ict.ac.cn/people/qqxu/), to pursue a Ph.D.
 
 
 # 📖 Educations
