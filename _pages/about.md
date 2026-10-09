@@ -21,12 +21,10 @@ I am a senior at Harbin Institute of Technology, Weihai. And I'm majoring in Sof
 
 I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, co-advised by Prof. [Qingming Huang](https://vipl.ict.ac.cn/people/qmhuang/) and Prof. [Qianqian Xu](https://vipl.ict.ac.cn/people/qqxu/), to pursue a Ph.D,
 
----
 
 # 📖 Educations
 - *2023.08 - now*, B.E. in Software Engineering, Harbin Institute of Technology, Weihai.
 
----
 
 # 🔥 News
 - *2025.11*: &nbsp;🏆 I won the **National First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling (Top 1% nationwide).
@@ -35,7 +33,6 @@ I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Com
 - *2026.08*: &nbsp;🎉🎉 One paper has been accepted by **EMNLP**.
 - *2026.09*: &nbsp;🎉🎉 I was recommended for admission to the **VIPL** Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, to pursue a Ph.D.
 
----
 
 # 📝 Publications
 
@@ -77,7 +74,6 @@ Tao Yu\*, Haopeng Jin\*, **Hao Wang\***, Shenghua Chai, Yujia Yang, Junhao Gong,
   </div>
 </div>
 
----
 
 # 🏆 Honors and Awards
 - *2026.06* Outstanding Student, Harbin Institute of Technology, Weihai
