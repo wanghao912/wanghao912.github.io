@@ -21,12 +21,14 @@ I am a senior at Harbin Institute of Technology, Weihai. And I'm majoring in Sof
 
 I will soon join the [VIPL](https://vipl.ict.ac.cn/) Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, co-advised by Prof. [Qingming Huang](https://vipl.ict.ac.cn/people/qmhuang/) and Prof. [Qianqian Xu](https://vipl.ict.ac.cn/people/qqxu/), to pursue a Ph.D,
 
+# 📖 Educations
+- *2023.08 - now*, B.E. in Software Engineering, Harbin Institute of Technology, Weihai.
 
 
 # 🔥 News
 - *2025.11*: &nbsp;🏆 I won the **National First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling (Top 1% nationwide).
 - *2025.12*: &nbsp;🥇 I got the **National Scholarship** (Top 0.3% nationwide).
-- *2026.04*: &nbsp;🎉🎉 My first paper **AIFIND** has been accepted by ICMR2026.
+- *2026.04*: &nbsp;🎉🎉 My **first** paper has been accepted by **ICMR**.
 - *2026.08*: &nbsp;🎉🎉 One paper has been accepted by **EMNLP**.
 - *2026.09*: &nbsp;🎉🎉 I was recommended for admission to the **VIPL** Lab at the Institute of Computing Technology (ICT), Chinese Academy of Sciences, to pursue a Ph.D.
 
@@ -72,15 +74,10 @@ Tao Yu\*, Haopeng Jin\*, **Hao Wang\***, Shenghua Chai, Yujia Yang, Junhao Gong,
 </div>
 
 
-
 # 🏆 Honors and Awards
-- *2026.08* National Marine Vehicle Design and Production Competition, **National Grand Prize (1st Place Nationwide)**
-- *2024.12* **National Scholarship** (Ministry of Education, China), Nationwide Top 0.3%
-- *2026.04* National Undergraduate Software Innovation Competition, **National Third Prize**
-- *2025.12* National Undergraduate Financial Technology Innovation Competition, **Regional First Prize**
-- **Repeatedly** Outstanding Student, Harbin Institute of Technology
-- **Repeatedly** Second-Class People's Scholarship, Harbin Institute of Technology
-- **Repeatedly** May Fourth Outstanding Youth League Member, Harbin Institute of Technology
-
-# 📖 Educations
-- *2023.08 - now*, B.E. in Software Engineering, Harbin Institute of Technology, Weihai.
+- *2026.06* Outstanding Student, Harbin Institute of Technology, Weihai
+- *2026.05* **Meritorious Winner** in Mathematical Contest in Modeling.
+- *2026.05* **National Third Prize** in ‌National College Student Software Innovation Competition.
+- *2025.12* **National Scholarship** (Top 0.3% nationwide).
+- *2025.11* **National First Prize** in Contemporary Undergraduate Mathematical Contest in Modeling (Top 1% nationwide).
+- *2025.06* First-Class People's Scholarship, Harbin Institute of Technology, Weihai
